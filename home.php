@@ -2,10 +2,7 @@
 <html>
 <body>
 
-<?php
-$cars=array("Volvo","BMW","Toyota","Honda","Mercedes","Opel");
-print_r(array_chunk($cars,3));
-?>
+<h1>welcome 2020</h1>
 
 </body>
 </html>
